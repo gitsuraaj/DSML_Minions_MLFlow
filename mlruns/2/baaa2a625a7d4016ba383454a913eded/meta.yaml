@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/suraaj/Desktop/dsml_minions/DSML_Minions_MLFlow/mlruns/2/baaa2a625a7d4016ba383454a913eded/artifacts
+end_time: 1681147152776
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: baaa2a625a7d4016ba383454a913eded
+run_uuid: baaa2a625a7d4016ba383454a913eded
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681147152692
+status: 3
+tags: []
+user_id: suraaj
