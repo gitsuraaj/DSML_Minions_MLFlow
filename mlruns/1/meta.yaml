@@ -1,0 +1,4 @@
+artifact_location: file:///Users/suraaj/Desktop/dsml_minions/DSML_Minions_MLFlow/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: Loan Status for Bank - Scaled
