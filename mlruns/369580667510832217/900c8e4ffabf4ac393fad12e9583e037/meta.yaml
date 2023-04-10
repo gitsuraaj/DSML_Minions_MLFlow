@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/suraaj/Desktop/dsml_minions/DSML_Minions_MLFlow/mlruns/369580667510832217/900c8e4ffabf4ac393fad12e9583e037/artifacts
+end_time: 1681143506385
+entry_point_name: ''
+experiment_id: '369580667510832217'
+lifecycle_stage: active
+run_id: 900c8e4ffabf4ac393fad12e9583e037
+run_name: legendary-deer-941
+run_uuid: 900c8e4ffabf4ac393fad12e9583e037
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681143504623
+status: 4
+tags: []
+user_id: suraaj

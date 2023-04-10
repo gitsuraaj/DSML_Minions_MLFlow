@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/suraaj/Desktop/dsml_minions/DSML_Minions_MLFlow/mlruns/747405035480002137/7519df7e572640d587e460d74f16dd85/artifacts
+end_time: 1681145399211
+entry_point_name: ''
+experiment_id: '747405035480002137'
+lifecycle_stage: active
+run_id: 7519df7e572640d587e460d74f16dd85
+run_name: Hyperparameter Tuning for RF classifier_3
+run_uuid: 7519df7e572640d587e460d74f16dd85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681145397083
+status: 3
+tags: []
+user_id: suraaj
